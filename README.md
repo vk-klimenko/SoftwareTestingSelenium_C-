@@ -1,3 +1,3 @@
 # SoftwareTestingSelenium_C-
-Testing from Selenium webdriver Csharp BAD COMMIT
+Testing from Selenium webdriver Csharp
 
